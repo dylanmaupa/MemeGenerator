@@ -64,7 +64,7 @@ const Meme = () => {
                     onChange={handleChange}
                 />
 
-                <input onClick={handleMemeChange} type="submit" value='Get a New Image' />
+                <input onClick={handleMemeChange} type="submit" value='Get a new meme image  🖼' />
             </form>
             <div className="memeContainer"
                     style={{
